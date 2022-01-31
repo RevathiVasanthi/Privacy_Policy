@@ -1,0 +1,23 @@
+Use a few important screens of the application 
+
+RetailEcosS stands for Retail Ecosystem Solutions - the technology Ecosystem consists of a suite of applications addressing the needs of different verticals of Retail Businesses especially  for the SME sector.
+
+RetailEcosS - RA (Registration Assist) is an application that enables a SME merchant register in the RetailEcosS network. This solution collects data of the SME Merchant that is required by the service providers, credit card processing company, Bank that provides term loans and working capital loans for the business growth and so on.
+
+These Applications are ABSOLUTELY FREE!
+
+This is a new application and has not been reviewed so far. Please be the first to review
+
+Privacy Policy
+
+We seek permission to use your location data to provide appropriate services through the regional service provider. However it is not linked to your identity
+We collect your business data for the assessment of your business needs by the Banks who provide term loans and working capital finance to you
+We collect business data for the credit card processing company to provide you the best possible service rates
+The personal data we collect from the Owner / manager of retail stores include Name, address, mail ID and mobile number
+The above data is collected while you register with our services on your own volition
+We use end-to-end Encryption when collecting the said data as well as keep the data in a fully encrypted manner in the backend servers
+We comply with the requirements of GDPR.
+
+Where are the Backend Servers Located
+The cloud infrastructure is provided by IBM and the Servers are located at the country where the services are provided. In cases where IBM do not have such infrastructure available in a specific country then the nearest country’s infrastructure is used
+
